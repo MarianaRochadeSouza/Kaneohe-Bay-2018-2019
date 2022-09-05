@@ -1,21 +1,24 @@
 
-This repository contains data to accompany the manuscript titled:
+# Kaneohe-Bay Symbiodiniaceae before and after 2019 bleaching
 
-### ** Coral environmental history is primary driver of algal symbiont composition, despite a mass bleaching event ** 
+This repository contains code to accompany the manuscript titled:
 
-by Mariana Rocha de Souza, Carlo Caruso, Lupita R. Jones, Crawford Dury, Ruth Gates, Robert J. Toonen
+### **Coral environmental history is primary driver of algal symbiont composition, despite a mass bleaching event**
 
-Repository contents: Contains environmental data and Symbiodiniaceae high-throughput sequencing of the internal transcribed spacer region (ITS2) data used in this study. 
+by **Mariana Rocha de Souza, Carlo Caruso, Lupita R. Jones, Crawford Dury, Ruth Gates, Robert J. Toonen**
 
-*Symbiodiniaceae data:
+**Repository contents:**
+Contains environmental data and Symbiodiniaceae high-throughput sequencing of the internal transcribed spacer region (ITS2) data used in this study. 
 
-Symb.absolute.abund_and_metaa: Symbiodiniaceae sequences absolute number of reads
-Symb.seqs.relative.abund_and_meta: Symbiodiniaceae sequences relative number of reads
-Symb.profiles.absolute.abund_and_meta: Symbiodiniaceae profiles (DIV) absolute number of reads
-Symb.profiles.relative.abund_and_meta: Symbiodiniaceae profiles (DIV) relative number of reads
+* *Symbiodiniaceae data*:
+     * Symb.absolute.abund_and_metaa: Symbiodiniaceae sequences absolute number of reads
+     * Symb.seqs.relative.abund_and_meta: Symbiodiniaceae sequences relative number of reads
+     * Symb.profiles.absolute.abund_and_meta: Symbiodiniaceae profiles (DIV) absolute number of reads
+     * Symb.profiles.relative.abund_and_meta: Symbiodiniaceae profiles (DIV) relative number of reads
+     
+* *Metadata and Environemntal data*: 
+     * depthmeta: metadata for each sample
+     * tempsummary: temperature summary statistics for each site
+     * mastersedimentation: data from sediment traps collected in each site
+     
 
-*Metadata and Environemntal data:
-
-depthmeta: metadata for each sample
-tempsummary: temperature summary statistics for each site
-mastersedimentation: data from sediment traps collected in each site
